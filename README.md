@@ -13,9 +13,9 @@ Requirements
 Setup
 ======
 
-## Installation
+## Basic Installation
 
-Extract all contents into
+Extract all contents into a directory of your choice.
 
 ## DVB Media Server Configuration
 
