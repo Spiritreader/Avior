@@ -14,7 +14,7 @@ Setup
 
 ## DVB Media Server Configuration
 
-Parameter "Aufgaben" for Recording Service:
+Parameter Tasks ("Aufgaben") for Recording Service:
 {SOURCE_FILE}" "{TITLE}" "{SUBTITLE}"
 
 Also make sure logfiles are ticked in the main configuration.
