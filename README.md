@@ -7,6 +7,7 @@ Requirements
 * HandbrakeCLI (HB Version 1.0 and higher)
 * DVB Media Server (any version) with logfiles ticked
 * Most recent dotNET framework for your operating system
+* ffmpeg.exe (most recent version) dropped into the same directory as VDRAvior.jar
 * Optional: MongoDB for storing jobs in a database
 
 Setup
@@ -24,6 +25,8 @@ More detailed setup in the future
 ## Windows
 
 Add new Windows Environment User Variable: 'HandbrakeCLI' with the Path to the Handbrake folder
+
+Copy your version of ffmpeg.exe into the same directory where VDRAvior.jar resides in. I won't include ffmpeg because it's a licensing minefield.
 
 Introduction
 ======
