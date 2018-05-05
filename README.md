@@ -43,7 +43,7 @@ renaming them to a mostly IMDB compatible name (which can later be movie scraped
 
 #### Avior is a two component software
 * VDRAvior.jar (Main application)
-* Infuser.exe (gets called from DVBRecSvc)
+* Recording Infuser Windows.exe (gets called from DVBRecSvc)
 
 __The charset / codepage is essential for the functionality of the program!__
 
