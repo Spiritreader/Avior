@@ -13,10 +13,15 @@ Requirements
 Setup
 ======
 
+## Installation
+
+Extract all contents into
+
 ## DVB Media Server Configuration
 
 Parameter Tasks ("Aufgaben") for Recording Service:
 {SOURCE_FILE}" "{TITLE}" "{SUBTITLE}"
+Select an executable and choose "Recording Infuser Windows.exe"
 
 Also make sure logfiles are ticked in the main configuration.
 
