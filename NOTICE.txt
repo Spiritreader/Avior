@@ -1,6 +1,6 @@
 This software package uses Morphia which is licensed under Apache 2.0
 
-  Copyright 2018 Spiritreader
+  Copyright 2018 Morphia
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
