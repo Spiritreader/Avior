@@ -13,7 +13,8 @@ This software package uses Morphia which is licensed under Apache 2.0
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-   
+
+______________________
    
 This software package uses MongoDB C# driver which is licensed under Apache 2.0
 
@@ -30,6 +31,8 @@ Copyright 2010-present MongoDB Inc.
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
+
+______________________
 
 This software uses FodyWeavers which is covered under the MIT license
 
